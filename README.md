@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/DhaneshUdayPujare">
-    <img src="https://github-profile-trophy.vercel.app/?username=DhaneshUdayPujare&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophies.vercel.app/?username=DhaneshUdayPujare&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -104,18 +104,20 @@ I am a final-year B.Tech student in **Artificial Intelligence & Data Science** a
   </picture>
 </div>
 
+<br/>
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DhaneshUdayPujare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00c6ff&text_color=c0caf5&icon_color=00c6ff" alt="Dhanesh's GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhaneshUdayPujare&layout=compact&theme=tokyonight&hide_border=true&title_color=00c6ff&text_color=c0caf5" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DhaneshUdayPujare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00c6ff&text_color=c0caf5&icon_color=00c6ff" alt="Dhanesh's GitHub Stats" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DhaneshUdayPujare&layout=compact&theme=tokyonight&hide_border=true&title_color=00c6ff&text_color=c0caf5" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=DhaneshUdayPujare&theme=tokyonight&hide_border=true&stroke=00c6ff&ring=00c6ff&fire=00c6ff" alt="Contribution Streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhaneshUdayPujare&theme=tokyo-night&hide_border=true&area=true&color=00c6ff" width="98%" alt="Activity Graph" />
+<img src="https://github-activity-graph.vercel.app/graph?username=DhaneshUdayPujare&theme=tokyo-night&hide_border=true&area=true&color=00c6ff" width="98%" alt="Activity Graph" />
 
 </div>
 
